@@ -40,3 +40,7 @@ Consumer Producer Problem Reader Writer Problem
 Assignment -9
 
 Dining philosophers problem
+
+Assignment-10
+
+Bankers Algorithm
