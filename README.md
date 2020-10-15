@@ -37,10 +37,17 @@ Assignment -7
 
 Consumer Producer Problem Reader Writer Problem
 
-Assignment -9
+Assignment -8
 
 Dining philosophers problem
 
-Assignment-10
+Assignment-9
 
 Bankers Algorithm
+
+Assignment-10
+
+FCFS CPU Scheduling<br>
+SJF CPU Scheduling <br>
+Priority CPU Scheduling<br>
+Round Robin CPU Scheduling
