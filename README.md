@@ -51,3 +51,10 @@ FCFS CPU Scheduling<br>
 SJF CPU Scheduling <br>
 Priority CPU Scheduling<br>
 Round Robin CPU Scheduling
+
+Assignment -11
+
+FCFS Disk Scheduling<br>
+SSTF Disk Scheduling<br>
+SCAN Disk Scheduling<br>
+C-SCAN Disk Scheduling
